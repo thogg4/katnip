@@ -11,5 +11,5 @@ This project is a nice starting point with some baked in goodies
 - [jQuery](http://jquery.com/),
 - [CoffeeScript](http://coffeescript.org/)
 - [MiniTest](https://github.com/seattlerb/minitest) (testing the rubies)
-- [Thin](http://code.macournoyer.com/thin/)
+- [Unicorn](http://unicorn.bogomips.org/)
 - Support for precompilation of assests during Heroku deploy
