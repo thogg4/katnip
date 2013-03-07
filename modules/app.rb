@@ -3,7 +3,7 @@ class SplashCycle < Sinatra::Base
     erb :index
   end
 
-  get '/scripts/*.js' do |script_name|
-    coffee :"/coffee/#{script_name}", :bare => true
+  get '/javascripts/*.coffee' do |script_name|
+    coffee :"/javascripts/#{script_name}", :bare => true
   end
 end
