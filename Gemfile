@@ -16,3 +16,7 @@ gem 'therubyracer', '0.11.3',  require: 'v8'
 # server
 gem 'unicorn'
 gem 'foreman'
+
+group :development do
+  gem 'rspec'
+end

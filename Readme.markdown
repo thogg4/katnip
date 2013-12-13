@@ -10,6 +10,6 @@ This project is a nice starting point with some baked in goodies
 - [Sinatra](http://www.sinatrarb.com/)
 - [jQuery](http://jquery.com/),
 - [CoffeeScript](http://coffeescript.org/)
-- [MiniTest](https://github.com/seattlerb/minitest) (testing the rubies)
 - [Unicorn](http://unicorn.bogomips.org/)
-- Support for precompilation of assests during Heroku deploy
+- [Slim](http://slim-lang.com/)
+- [RSpec](http://rspec.info/)
