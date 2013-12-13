@@ -4,5 +4,5 @@ require File.expand_path('../boot', __FILE__)
 use Rack::Deflater
 
 map '/' do
-  run SplashCycle
+  run Katnip
 end

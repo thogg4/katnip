@@ -1,5 +1,5 @@
 development:
   adapter: postgresql
-  username: cycleface
-  password: cycleface
-  database: cycleface_dev
+  username: katnip
+  password: katnip
+  database: katnip_dev

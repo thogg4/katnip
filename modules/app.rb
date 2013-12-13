@@ -1,6 +1,6 @@
-class SplashCycle < Sinatra::Base
+class Katnip < Sinatra::Base
   get '/' do
-    erb :index
+    slim :index
   end
 
   get '/javascripts/*.coffee' do |script_name|
